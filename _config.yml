@@ -1,14 +1,14 @@
 layout_spectrum: 1
-typography_spectrum: 0.1146953
 color:
   saturation: 0.217007
-  lightness: 0.09624389
   brandStrength: 1
+  lightness: 0.09624389
   brandColors:
-    - '#0E0E0C'
-    - '#E8E9E9'
-    - '#BE7654'
-    - '#ACACAB'
-    - '#6F5A4C'
+    - '#14141E'
+    - '#B5B2B4'
+    - '#88919B'
+    - '#D8D5D2'
+    - '#656E78'
   rhythmicContrast: 0.09496926
+typography_spectrum: 0.1146953
 name: Joshua
